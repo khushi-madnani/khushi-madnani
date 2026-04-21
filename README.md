@@ -3,7 +3,7 @@
 Hi, I’m Khushi, a Computer Engineering student at the National University of Singapore.
 I like building things that actually do something, especially robots and systems that interact with the real world. Most of my projects involve a mix of software and hardware, from sensors and embedded systems. I am usually either working on a new idea or figuring out why something that should work does not.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Madnani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-madnani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-madnani/)
 
 ## 🛠️ Tech Stack
 
