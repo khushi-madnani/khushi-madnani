@@ -3,7 +3,7 @@
 Hi, I’m Khushi, a Computer Engineering student at the National University of Singapore.
 I like building things that actually do something, especially robots and systems that interact with the real world. Most of my projects involve a mix of software and hardware, from sensors and embedded systems. I am usually either working on a new idea or figuring out why something that should work does not.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Madnani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-madnani/)
 
 ## 🛠️ Tech Stack
 
@@ -15,15 +15,11 @@ I like building things that actually do something, especially robots and systems
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
 ### ⚙️ Tools & Systems
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-
----
 
 ### 🤖 Embedded & Robotics
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
